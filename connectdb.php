@@ -2,8 +2,8 @@
 
 
 $host = "localhost";
-$username = "root";
-$password = "";
+$username = "yourrootname";
+$password = "yourpassword";
 $db = "memo";
 
 
